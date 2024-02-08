@@ -1,0 +1,18 @@
+{
+  "name": "rimac_test",
+  "version": "1.0.0",
+  "description": "Prueba de nodejs de rimac seguro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "juandiego436"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Juan Diego Caceres",
+  "license": "ISC"
+}
